@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in new technologies 
 - 🌱 I’m currently learning Golang, docker, kubernetes and AWS
-- 💞️ I’m looking to collaborate on proyects with Go, C# or Java 
+- 💞️ I’m looking to collaborate on projects with Go, C# or Java 
 
 
 <!---
